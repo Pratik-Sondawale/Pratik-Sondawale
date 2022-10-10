@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Natural Language Programming, AI, Computer Vision**
 
-- 💬 Ask me about **Python, Analytics With Python(Numpy, Pandas, Matplotlib, Seaborn), Statistics, Machine Learning, R Programming**
+- 💬 Ask me about **Python, Analytics With Python(Numpy, Pandas, Matplotlib, Seaborn), Statistics, Machine Learning, R Programming, Advanced Excel, Tableau**
 
 - 📫 How to reach me **pratiksondawale@gmail.com**
 
