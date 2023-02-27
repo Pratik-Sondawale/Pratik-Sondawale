@@ -1,4 +1,4 @@
-[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)](https://rishavchanda.io)
+[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)]
 <h1 align="center">Hi 👋, I'm Pratik Sondawale</h1>
 <h3 align="center">A Data Science Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
