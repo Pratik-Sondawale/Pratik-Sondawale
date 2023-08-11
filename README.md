@@ -6,9 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik-sondawale&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-sondawale" /> </p>
 
-- 🌱 I’m currently learning **Computer Vision**
 
-- 💬 Ask me about **Python, Analytics With Python(Numpy, Pandas, Matplotlib, Seaborn), Statistics, Machine Learning, R Programming, Advanced Excel, Tableau, SQL, Deep Learning, Natural Language Processing, Flask, AI**
+- 💬 Ask me about **Python, Analytics With Python(Numpy, Pandas, Matplotlib, Seaborn), Statistics, Machine Learning, R Programming, Advanced Excel, Tableau, SQL, Deep Learning, Natural Language Processing, Flask, AI, Computer Vision**
 
 - 📫 How to reach me **pratiksondawale@gmail.com**
 
