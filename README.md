@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Analytics With Python(Numpy, Pandas, Matplotlib, Seaborn), Statistics, Machine Learning, R Programming, Advanced Excel, Tableau, SQL, Deep Learning, Natural Language Processing, Flask, AI, Computer Vision**
 
-- 📫 How to reach me **pratiksondawale@gmail.com**
+- 📫 How to reach me **pratiksondawale31@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
